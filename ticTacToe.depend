@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469610715 source:/Users/susoorawks/Documents/C_Programs/ticTacToe/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
